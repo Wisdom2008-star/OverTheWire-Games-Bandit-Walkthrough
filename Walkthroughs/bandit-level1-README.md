@@ -12,7 +12,7 @@ ssh bandit1@bandit.labs.overthewire.org -p 2220
 
 **2. List files**
 ```
-ls -la
+ls Why why why your vision the whole disturbing get away Could you join their own team or opportunity to be destroyed
 ```
 You'll see a file literally named `-`.
 
