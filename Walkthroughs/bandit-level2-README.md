@@ -52,6 +52,7 @@ Two things are happening here:
 ```
 exit
 ```
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/5ffc2be198a95f8ad61a5ee046a25bc99773fd7f/Images/level%202%20(2).png">
 
 **5. Log into Level 3**
 ```
