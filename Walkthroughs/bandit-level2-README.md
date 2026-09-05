@@ -12,6 +12,7 @@ Find the password stored in a file with spaces in its name.
 ```
 ssh bandit2@bandit.labs.overthewire.org -p 2220
 ```
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/0f8274756bab890ad0a7921d5659c010aefe3db1/Images/Level%202.png">
 
 **2. List files**
 ```
