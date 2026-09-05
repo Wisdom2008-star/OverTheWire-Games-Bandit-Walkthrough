@@ -46,3 +46,4 @@ ssh bandit2@bandit.labs.overthewire.org -p 2220
 Filenames that look like flags need `./` or `<` in front of them so the shell doesn't misread them.
 
 <img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/1dedb95d0b9bed165c37bce1ae6c89a521eeda1b/Images/Level%201.png">
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/91ccf055c2b4e0210b2cd54acc52bcb24f12a624/Images/level%201%20(2).png">
