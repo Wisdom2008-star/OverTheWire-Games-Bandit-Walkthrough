@@ -49,3 +49,4 @@ The core loop: **connect → explore → find password → move on**. You'll rep
 
 
 <img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/main/Images/Level%200%20to%201.png">
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/main/Images/Level%200%20to%201%20(2).png">
