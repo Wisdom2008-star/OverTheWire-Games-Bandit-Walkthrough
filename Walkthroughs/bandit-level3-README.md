@@ -9,6 +9,7 @@ Find a hidden file inside the `inhere` directory.
 ```
 ssh bandit3@bandit.labs.overthewire.org -p 2220
 ```
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/21ff7029612c35d12b9370598f539ffca6a2574c/Images/Level%203.png">
 
 **2. Move into the directory**
 ```
