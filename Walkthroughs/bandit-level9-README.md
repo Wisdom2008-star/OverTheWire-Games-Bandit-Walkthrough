@@ -9,6 +9,7 @@ Find the password in `data.txt` — it's mixed in with binary data, sitting next
 ```
 ssh bandit9@bandit.labs.overthewire.org -p 2220
 ```
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/main/Images/Level%209.png">
 
 **2. Check the file**
 ```
@@ -30,6 +31,7 @@ strings data.txt | grep "="
 ```
 exit
 ```
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/main/Images/level%209%20(2).png">
 
 **5. Log into Level 10**
 ```
