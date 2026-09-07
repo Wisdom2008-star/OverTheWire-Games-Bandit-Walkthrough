@@ -32,7 +32,7 @@ Quotes aren't strictly required here since there are no spaces, but they don't h
 ```
 exit
 ```
-<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/197996144a06459a0be67d29066eee32823f8abb/Images/Level%203.png">
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/20978472bd38cf0fa6a5248f621d2077dc2bb1e4/Images/Level%203%20(3).png">
 **6. Log into Level 4**
 ```
 ssh bandit4@bandit.labs.overthewire.org -p 2220
