@@ -9,6 +9,7 @@ Find the one line in `data.txt` that appears only once — every other line is r
 ```
 ssh bandit8@bandit.labs.overthewire.org -p 2220
 ```
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/main/Images/Level%208.png">
 
 **2. Check the file**
 ```
@@ -27,6 +28,7 @@ sort data.txt | uniq -u
 ```
 exit
 ```
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/main/Images/Level%208%20(2).png">
 
 **5. Log into Level 9**
 ```
