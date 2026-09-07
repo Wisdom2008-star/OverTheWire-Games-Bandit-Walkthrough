@@ -9,6 +9,7 @@ Find the one human-readable file among several in the `inhere` directory.
 ```
 ssh bandit4@bandit.labs.overthewire.org -p 2220
 ```
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/main/Images/Level%204.png">
 
 **2. Move into the directory and list files**
 ```
@@ -33,6 +34,7 @@ cat ./-file07
 ```
 exit
 ```
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/main/Images/Level%204%20(2).png">
 
 **6. Log into Level 5**
 ```
