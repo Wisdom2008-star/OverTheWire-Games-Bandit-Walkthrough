@@ -9,6 +9,7 @@ Find a file somewhere on the entire filesystem that matches three clues: owned b
 ```
 ssh bandit6@bandit.labs.overthewire.org -p 2220
 ```
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/main/Images/level%206.png">
 
 **2. Check the home directory first**
 ```
@@ -37,6 +38,7 @@ cat /var/lib/dpkg/info/bandit7.password
 ```
 exit
 ```
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/main/Images/level%206%20(2).png">
 
 **6. Log into Level 7**
 ```
