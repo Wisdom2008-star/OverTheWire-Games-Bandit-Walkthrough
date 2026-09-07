@@ -9,6 +9,7 @@ Find one specific file buried inside the `inhere` directory, matching three clue
 ```
 ssh bandit5@bandit.labs.overthewire.org -p 2220
 ```
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/main/Images/Level%205.png">
 
 **2. Look at what you're dealing with**
 ```
@@ -39,6 +40,7 @@ cat inhere/maybehere07/.file2
 ```
 exit
 ```
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/main/Images/Level%205%20(2).png">
 
 **6. Log into Level 6**
 ```
