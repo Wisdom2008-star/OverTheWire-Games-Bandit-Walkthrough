@@ -9,7 +9,6 @@ The password in `data.txt` is encoded in base64. Decode it.
 ```
 ssh bandit10@bandit.labs.overthewire.org -p 2220
 ```
-<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/main/Images/level%2010.png">
 
 **2. Check the file**
 ```
@@ -31,7 +30,6 @@ This prints the decoded password straight to your terminal — it may come out a
 ```
 exit
 ```
-<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/main/Images/level%2010%20(2).png">
 
 **5. Log into Level 11**
 ```
