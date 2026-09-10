@@ -9,6 +9,7 @@ The password in `data.txt` is scrambled using ROT13 (each letter rotated 13 plac
 ```
 ssh bandit11@bandit.labs.overthewire.org -p 2220
 ```
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/main/Images/Level%2011.png">
 
 **2. Check the file**
 ```
@@ -36,6 +37,7 @@ This may print as a full sentence like "The password is [password]" rather than 
 ```
 exit
 ```
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/main/Images/Level%2011%20(2).png">
 
 **6. Log into Level 12**
 ```
