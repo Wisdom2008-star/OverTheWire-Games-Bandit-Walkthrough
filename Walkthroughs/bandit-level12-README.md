@@ -9,6 +9,7 @@
 ```
 ssh bandit12@bandit.labs.overthewire.org -p 2220
 ```
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/main/Images/Level%2012.png">
 
 **2. Set up a workspace**
 ```
@@ -22,6 +23,9 @@ cp ~/data.txt .
 cat data.txt
 ```
 This just shows you the raw hex content — confirms it's a hexdump before you reverse it.
+
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/main/Images/level%2012%20(2).png">
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/main/Images/level%2012%20(3).png">
 
 **4. Reverse the hexdump into binary**
 ```
@@ -58,6 +62,11 @@ After extracting a tar archive, run `ls` — it drops out a new file rather than
 **7. Repeat steps 5 and 6**
 After each decompression, run `file` again on whatever file you're left with, then follow whichever instruction above matches. Keep going — checking type, renaming, decompressing — until `file` reports something like "ASCII text." That means you've reached the bottom and there's nothing left to unwrap.
 
+
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/main/Images/level%2012%20(4).png">
+
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/main/Images/Level%2012%20(5).png">
+
 **8. Read the final file**
 ```
 cat <final_filename>
@@ -68,6 +77,7 @@ This may print as "The password is [password]" rather than just the raw string.
 ```
 exit
 ```
+<img src="https://github.com/Wisdom2008-star/OverTheWire-Games-Bandit-Walkthrough/blob/main/Images/Level%2012%20(6).png">
 
 ## Takeaway
 It's the same three moves on repeat: check the type, rename to match, decompress. The number of layers and the order they come in can differ each time you attempt this level, so let `file` tell you what to do next rather than expecting a fixed pattern.
